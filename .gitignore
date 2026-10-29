@@ -41,6 +41,9 @@ yarn-error.*
 Thumbs.db
 *.pem
 
+# imagenes
+assets/images/
+
 # TypeScript
 *.tsbuildinfo
 
