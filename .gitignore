@@ -25,7 +25,10 @@ web-build/
 
 # IDEs & AI assistant folders
 .vscode/
+Vscode/
 .claude/
+.Claude/
+Claude/
 .AGENTS.md
 
 # Debug & Logs
